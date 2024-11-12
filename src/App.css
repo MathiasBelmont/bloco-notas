@@ -1,0 +1,23 @@
+.note-list {
+  text-align: center;
+}
+
+.note-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.note-list li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.note-preview {
+  margin: 10px 0;
+}
+
+.actions button {
+  margin: 5px;
+  padding: 5px 10px;
+}

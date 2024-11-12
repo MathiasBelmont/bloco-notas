@@ -1,0 +1,16 @@
+/* Estilos específicos para a grid de notas */
+.grid {
+  display: grid;
+  gap: 16px; /* Espaçamento entre os itens */
+}
+
+.note-item {
+  width: 200px; /* Largura fixa */
+  height: 250px; /* Altura fixa */
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

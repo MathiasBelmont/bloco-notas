@@ -1,0 +1,18 @@
+.note-editor {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .note-editor input[type="text"],
+  .note-editor textarea {
+    width: 100%;
+    padding: 100px;
+    margin-bottom: 100px;
+  }
+  
+  .note-editor input[type="color"] {
+    height: 40px;
+    cursor: pointer;
+  }
+  
